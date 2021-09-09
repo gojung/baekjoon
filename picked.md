@@ -1,3 +1,12 @@
+## 2021/09/10 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [12782](https://www.acmicpc.net/problem/12782) | [비트 우정지수](https://www.acmicpc.net/problem/12782) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [18353](https://www.acmicpc.net/problem/18353) | [병사 배치하기](https://www.acmicpc.net/problem/18353) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [15900](https://www.acmicpc.net/problem/15900) | [나무 탈출](https://www.acmicpc.net/problem/15900) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [2143](https://www.acmicpc.net/problem/2143) | [두 배열의 합](https://www.acmicpc.net/problem/2143) |
+
 ## 2021/09/09 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -102,7 +111,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [2609](https://www.acmicpc.net/problem/2609) | [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [21314](https://www.acmicpc.net/problem/21314) | [민겸 수](https://www.acmicpc.net/problem/21314) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [21314](https://www.acmicpc.net/problem/21314) | [민겸 수](https://www.acmicpc.net/problem/21314) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [5582](https://www.acmicpc.net/problem/5582) | [공통 부분 문자열](https://www.acmicpc.net/problem/5582) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [14391](https://www.acmicpc.net/problem/14391) | [종이 조각](https://www.acmicpc.net/problem/14391) |
 
