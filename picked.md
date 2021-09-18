@@ -1,3 +1,12 @@
+## 2021/09/19 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [17521](https://www.acmicpc.net/problem/17521) | [Byte Coin](https://www.acmicpc.net/problem/17521) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [20364](https://www.acmicpc.net/problem/20364) | [부동산 다툼](https://www.acmicpc.net/problem/20364) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [15992](https://www.acmicpc.net/problem/15992) | [1, 2, 3 더하기 7](https://www.acmicpc.net/problem/15992) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1865](https://www.acmicpc.net/problem/1865) | [웜홀](https://www.acmicpc.net/problem/1865) |
+
 ## 2021/09/18 
 
 | 난이도 | 번호 | 문제 이름 |
