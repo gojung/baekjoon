@@ -1,3 +1,12 @@
+## 2021/10/10 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1940](https://www.acmicpc.net/problem/1940) | [주몽](https://www.acmicpc.net/problem/1940) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1713](https://www.acmicpc.net/problem/1713) | [후보 추천하기](https://www.acmicpc.net/problem/1713) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [17352](https://www.acmicpc.net/problem/17352) | [여러분의 다리가 되어 드리겠습니다!](https://www.acmicpc.net/problem/17352) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2602](https://www.acmicpc.net/problem/2602) | [돌다리 건너기](https://www.acmicpc.net/problem/2602) |
+
 ## 2021/10/09 
 
 | 난이도 | 번호 | 문제 이름 |
