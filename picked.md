@@ -1,3 +1,12 @@
+## 2021/10/22 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [5347](https://www.acmicpc.net/problem/5347) | [LCM](https://www.acmicpc.net/problem/5347) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [21317](https://www.acmicpc.net/problem/21317) | [징검다리 건너기](https://www.acmicpc.net/problem/21317) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [3190](https://www.acmicpc.net/problem/3190) | [뱀](https://www.acmicpc.net/problem/3190) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1976](https://www.acmicpc.net/problem/1976) | [여행 가자](https://www.acmicpc.net/problem/1976) |
+
 ## 2021/10/21 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -677,7 +686,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [1359](https://www.acmicpc.net/problem/1359) | [복권](https://www.acmicpc.net/problem/1359) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1359](https://www.acmicpc.net/problem/1359) | [복권](https://www.acmicpc.net/problem/1359) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [15683](https://www.acmicpc.net/problem/15683) | [감시](https://www.acmicpc.net/problem/15683) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [18223](https://www.acmicpc.net/problem/18223) | [민준이와 마산 그리고 건우](https://www.acmicpc.net/problem/18223) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [20327](https://www.acmicpc.net/problem/20327) | [배열 돌리기 6](https://www.acmicpc.net/problem/20327) |
