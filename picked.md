@@ -1,3 +1,12 @@
+## 2021/11/08 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [17451](https://www.acmicpc.net/problem/17451) | [평행 우주](https://www.acmicpc.net/problem/17451) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2302](https://www.acmicpc.net/problem/2302) | [극장 좌석](https://www.acmicpc.net/problem/2302) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2343](https://www.acmicpc.net/problem/2343) | [기타 레슨](https://www.acmicpc.net/problem/2343) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1469](https://www.acmicpc.net/problem/1469) | [숌 사이 수열](https://www.acmicpc.net/problem/1469) |
+
 ## 2021/11/07 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -399,7 +408,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1065](https://www.acmicpc.net/problem/1065) | [한수](https://www.acmicpc.net/problem/1065) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [17141](https://www.acmicpc.net/problem/17141) | [연구소 2](https://www.acmicpc.net/problem/17141) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [17141](https://www.acmicpc.net/problem/17141) | [연구소 2](https://www.acmicpc.net/problem/17141) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [20168](https://www.acmicpc.net/problem/20168) | [골목 대장 호석 - 기능성](https://www.acmicpc.net/problem/20168) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1581](https://www.acmicpc.net/problem/1581) | [락스타 락동호](https://www.acmicpc.net/problem/1581) |
 
@@ -1156,7 +1165,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [14697](https://www.acmicpc.net/problem/14697) | [방 배정하기](https://www.acmicpc.net/problem/14697) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [14712](https://www.acmicpc.net/problem/14712) | [넴모넴모 (Easy)](https://www.acmicpc.net/problem/14712) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [4358](https://www.acmicpc.net/problem/4358) | [생태학](https://www.acmicpc.net/problem/4358) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [4358](https://www.acmicpc.net/problem/4358) | [생태학](https://www.acmicpc.net/problem/4358) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [20210](https://www.acmicpc.net/problem/20210) | [파일 탐색기](https://www.acmicpc.net/problem/20210) |
 
 ## 2021/07/01 
