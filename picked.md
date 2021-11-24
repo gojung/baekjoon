@@ -1,3 +1,12 @@
+## 2021/11/25 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [1487](https://www.acmicpc.net/problem/1487) | [물건 팔기](https://www.acmicpc.net/problem/1487) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [17393](https://www.acmicpc.net/problem/17393) | [다이나믹 롤러](https://www.acmicpc.net/problem/17393) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1038](https://www.acmicpc.net/problem/1038) | [감소하는 수](https://www.acmicpc.net/problem/1038) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1068](https://www.acmicpc.net/problem/1068) | [트리](https://www.acmicpc.net/problem/1068) |
+
 ## 2021/11/24 
 
 | 난이도 | 번호 | 문제 이름 |
