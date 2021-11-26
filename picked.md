@@ -1,3 +1,12 @@
+## 2021/11/27 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [1654](https://www.acmicpc.net/problem/1654) | [랜선 자르기](https://www.acmicpc.net/problem/1654) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [17212](https://www.acmicpc.net/problem/17212) | [달나라 토끼를 위한 구매대금 지불 도우미](https://www.acmicpc.net/problem/17212) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [17390](https://www.acmicpc.net/problem/17390) | [이건 꼭 풀어야 해!](https://www.acmicpc.net/problem/17390) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1946](https://www.acmicpc.net/problem/1946) | [신입 사원](https://www.acmicpc.net/problem/1946) |
+
 ## 2021/11/26 
 
 | 난이도 | 번호 | 문제 이름 |
