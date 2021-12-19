@@ -1,3 +1,8 @@
+## 2021/12/20 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2021/12/19 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -204,7 +209,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [20551](https://www.acmicpc.net/problem/20551) | [Sort 마스터 배지훈의 후계자](https://www.acmicpc.net/problem/20551) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [20291](https://www.acmicpc.net/problem/20291) | [파일 정리](https://www.acmicpc.net/problem/20291) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2110](https://www.acmicpc.net/problem/2110) | [공유기 설치](https://www.acmicpc.net/problem/2110) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2110](https://www.acmicpc.net/problem/2110) | [공유기 설치](https://www.acmicpc.net/problem/2110) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2075](https://www.acmicpc.net/problem/2075) | [N번째 큰 수](https://www.acmicpc.net/problem/2075) |
 
 ## 2021/11/19 
