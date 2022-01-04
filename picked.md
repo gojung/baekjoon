@@ -1,3 +1,8 @@
+## 2022/01/05 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2022/01/04 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -1077,7 +1082,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [2670](https://www.acmicpc.net/problem/2670) | [연속부분최대곱](https://www.acmicpc.net/problem/2670) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [16926](https://www.acmicpc.net/problem/16926) | [배열 돌리기 1](https://www.acmicpc.net/problem/16926) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [20055](https://www.acmicpc.net/problem/20055) | [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [15789](https://www.acmicpc.net/problem/15789) | [CTP 왕국은 한솔 왕국을 이길 수 있을까?](https://www.acmicpc.net/problem/15789) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [15789](https://www.acmicpc.net/problem/15789) | [CTP 왕국은 한솔 왕국을 이길 수 있을까?](https://www.acmicpc.net/problem/15789) |
 
 ## 2021/08/23 
 
@@ -1095,7 +1100,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [2435](https://www.acmicpc.net/problem/2435) | [기상청 인턴 신현수](https://www.acmicpc.net/problem/2435) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [14676](https://www.acmicpc.net/problem/14676) | [영우는 사기꾼?](https://www.acmicpc.net/problem/14676) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [14863](https://www.acmicpc.net/problem/14863) | [서울에서 경산까지](https://www.acmicpc.net/problem/14863) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [15831](https://www.acmicpc.net/problem/15831) | [준표의 조약돌](https://www.acmicpc.net/problem/15831) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [15831](https://www.acmicpc.net/problem/15831) | [준표의 조약돌](https://www.acmicpc.net/problem/15831) |
 
 ## 2021/08/21 
 
