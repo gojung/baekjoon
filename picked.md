@@ -1,3 +1,8 @@
+## 2022/03/18 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2022/03/17 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -1004,7 +1009,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1978](https://www.acmicpc.net/problem/1978) | [소수 찾기](https://www.acmicpc.net/problem/1978) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [1978](https://www.acmicpc.net/problem/1978) | [소수 찾기](https://www.acmicpc.net/problem/1978) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1660](https://www.acmicpc.net/problem/1660) | [캡틴 이다솜](https://www.acmicpc.net/problem/1660) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2573](https://www.acmicpc.net/problem/2573) | [빙산](https://www.acmicpc.net/problem/2573) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2580](https://www.acmicpc.net/problem/2580) | [스도쿠](https://www.acmicpc.net/problem/2580) |
@@ -1077,7 +1082,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1764](https://www.acmicpc.net/problem/1764) | [듣보잡](https://www.acmicpc.net/problem/1764) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [16928](https://www.acmicpc.net/problem/16928) | [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [16928](https://www.acmicpc.net/problem/16928) | [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [17208](https://www.acmicpc.net/problem/17208) | [카우버거 알바생](https://www.acmicpc.net/problem/17208) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [17406](https://www.acmicpc.net/problem/17406) | [배열 돌리기 4](https://www.acmicpc.net/problem/17406) |
 
@@ -1465,7 +1470,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [2422](https://www.acmicpc.net/problem/2422) | [한윤정이 이탈리아에 가서 아이스크림을 사먹는데](https://www.acmicpc.net/problem/2422) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [20162](https://www.acmicpc.net/problem/20162) | [간식 파티](https://www.acmicpc.net/problem/20162) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [18222](https://www.acmicpc.net/problem/18222) | [투에-모스 문자열](https://www.acmicpc.net/problem/18222) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [18222](https://www.acmicpc.net/problem/18222) | [투에-모스 문자열](https://www.acmicpc.net/problem/18222) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [16438](https://www.acmicpc.net/problem/16438) | [원숭이 스포츠](https://www.acmicpc.net/problem/16438) |
 
 ## 2021/08/20 
@@ -2158,7 +2163,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [1668](https://www.acmicpc.net/problem/1668) | [트로피 진열](https://www.acmicpc.net/problem/1668) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [4963](https://www.acmicpc.net/problem/4963) | [섬의 개수](https://www.acmicpc.net/problem/4963) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [6087](https://www.acmicpc.net/problem/6087) | [레이저 통신](https://www.acmicpc.net/problem/6087) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [6087](https://www.acmicpc.net/problem/6087) | [레이저 통신](https://www.acmicpc.net/problem/6087) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [3165](https://www.acmicpc.net/problem/3165) | [5](https://www.acmicpc.net/problem/3165) |
 
 ## 2021/06/04 
