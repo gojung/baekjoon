@@ -1,3 +1,8 @@
+## 2022/03/24 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2022/03/23 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -947,7 +952,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [3986](https://www.acmicpc.net/problem/3986) | [좋은 단어](https://www.acmicpc.net/problem/3986) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1325](https://www.acmicpc.net/problem/1325) | [효율적인 해킹](https://www.acmicpc.net/problem/1325) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1987](https://www.acmicpc.net/problem/1987) | [알파벳](https://www.acmicpc.net/problem/1987) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2115](https://www.acmicpc.net/problem/2115) | [갤러리](https://www.acmicpc.net/problem/2115) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2115](https://www.acmicpc.net/problem/2115) | [갤러리](https://www.acmicpc.net/problem/2115) |
 
 ## 2021/10/20 
 
