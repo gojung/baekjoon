@@ -1,3 +1,8 @@
+## 2022/04/11 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2022/04/10 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -911,7 +916,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [11508](https://www.acmicpc.net/problem/11508) | [2+1 세일](https://www.acmicpc.net/problem/11508) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2531](https://www.acmicpc.net/problem/2531) | [회전 초밥](https://www.acmicpc.net/problem/2531) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1520](https://www.acmicpc.net/problem/1520) | [내리막 길](https://www.acmicpc.net/problem/1520) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1577](https://www.acmicpc.net/problem/1577) | [도로의 개수](https://www.acmicpc.net/problem/1577) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1577](https://www.acmicpc.net/problem/1577) | [도로의 개수](https://www.acmicpc.net/problem/1577) |
 
 ## 2021/11/03 
 
@@ -2207,7 +2212,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [2309](https://www.acmicpc.net/problem/2309) | [일곱 난쟁이](https://www.acmicpc.net/problem/2309) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [14400](https://www.acmicpc.net/problem/14400) | [편의점 2](https://www.acmicpc.net/problem/14400) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [17291](https://www.acmicpc.net/problem/17291) | [새끼치기](https://www.acmicpc.net/problem/17291) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [17490](https://www.acmicpc.net/problem/17490) | [일감호에 다리 놓기](https://www.acmicpc.net/problem/17490) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [17490](https://www.acmicpc.net/problem/17490) | [일감호에 다리 놓기](https://www.acmicpc.net/problem/17490) |
 
 ## 2021/06/12 
 
