@@ -1,3 +1,8 @@
+## 2022/07/17 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2022/07/16 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -2094,7 +2099,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [15624](https://www.acmicpc.net/problem/15624) | [피보나치 수 7](https://www.acmicpc.net/problem/15624) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [13905](https://www.acmicpc.net/problem/13905) | [세부](https://www.acmicpc.net/problem/13905) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [20057](https://www.acmicpc.net/problem/20057) | [마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [16985](https://www.acmicpc.net/problem/16985) | [Maaaaaaaaaze](https://www.acmicpc.net/problem/16985) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [16985](https://www.acmicpc.net/problem/16985) | [Maaaaaaaaaze](https://www.acmicpc.net/problem/16985) |
 
 ## 2021/08/17 
 
