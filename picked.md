@@ -1,3 +1,8 @@
+## 2022/08/10 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2022/08/09 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -2142,7 +2147,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [9372](https://www.acmicpc.net/problem/9372) | [상근이의 여행](https://www.acmicpc.net/problem/9372) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [5569](https://www.acmicpc.net/problem/5569) | [출근 경로](https://www.acmicpc.net/problem/5569) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [14938](https://www.acmicpc.net/problem/14938) | [서강그라운드](https://www.acmicpc.net/problem/14938) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [12896](https://www.acmicpc.net/problem/12896) | [스크루지 민호](https://www.acmicpc.net/problem/12896) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [12896](https://www.acmicpc.net/problem/12896) | [스크루지 민호](https://www.acmicpc.net/problem/12896) |
 
 ## 2021/08/25 
 
