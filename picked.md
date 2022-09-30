@@ -1,3 +1,8 @@
+## 2022/10/01 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2022/09/30 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -1785,7 +1790,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [10994](https://www.acmicpc.net/problem/10994) | [별 찍기 - 19](https://www.acmicpc.net/problem/10994) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1058](https://www.acmicpc.net/problem/1058) | [친구](https://www.acmicpc.net/problem/1058) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [1058](https://www.acmicpc.net/problem/1058) | [친구](https://www.acmicpc.net/problem/1058) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [2553](https://www.acmicpc.net/problem/2553) | [마지막 팩토리얼 수](https://www.acmicpc.net/problem/2553) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1695](https://www.acmicpc.net/problem/1695) | [팰린드롬 만들기](https://www.acmicpc.net/problem/1695) |
 
