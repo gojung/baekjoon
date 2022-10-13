@@ -1,3 +1,9 @@
+## 2022/10/14 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [15270](https://www.acmicpc.net/problem/15270) | [친구 팰린드롬](https://www.acmicpc.net/problem/15270) |
+
 ## 2022/10/13 
 
 | 난이도 | 번호 | 문제 이름 |
