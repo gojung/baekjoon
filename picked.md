@@ -1,3 +1,8 @@
+## 2022/11/02 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2022/11/01 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -1766,7 +1771,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1072](https://www.acmicpc.net/problem/1072) | [게임](https://www.acmicpc.net/problem/1072) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [1072](https://www.acmicpc.net/problem/1072) | [게임](https://www.acmicpc.net/problem/1072) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1759](https://www.acmicpc.net/problem/1759) | [암호 만들기](https://www.acmicpc.net/problem/1759) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1916](https://www.acmicpc.net/problem/1916) | [최소비용 구하기](https://www.acmicpc.net/problem/1916) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2023](https://www.acmicpc.net/problem/2023) | [신기한 소수](https://www.acmicpc.net/problem/2023) |
