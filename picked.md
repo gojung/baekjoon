@@ -1,3 +1,8 @@
+## 2022/11/25 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2022/11/24 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -2341,7 +2346,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1758](https://www.acmicpc.net/problem/1758) | [알바생 강호](https://www.acmicpc.net/problem/1758) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1633](https://www.acmicpc.net/problem/1633) | [최고의 팀 만들기](https://www.acmicpc.net/problem/1633) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1633](https://www.acmicpc.net/problem/1633) | [최고의 팀 만들기](https://www.acmicpc.net/problem/1633) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [16918](https://www.acmicpc.net/problem/16918) | [봄버맨](https://www.acmicpc.net/problem/16918) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [18234](https://www.acmicpc.net/problem/18234) | [당근 훔쳐 먹기](https://www.acmicpc.net/problem/18234) |
 
