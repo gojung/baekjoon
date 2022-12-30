@@ -1,3 +1,8 @@
+## 2022/12/31 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2022/12/30 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -2336,7 +2341,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [5347](https://www.acmicpc.net/problem/5347) | [LCM](https://www.acmicpc.net/problem/5347) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [21317](https://www.acmicpc.net/problem/21317) | [징검다리 건너기](https://www.acmicpc.net/problem/21317) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [21317](https://www.acmicpc.net/problem/21317) | [징검다리 건너기](https://www.acmicpc.net/problem/21317) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [3190](https://www.acmicpc.net/problem/3190) | [뱀](https://www.acmicpc.net/problem/3190) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1976](https://www.acmicpc.net/problem/1976) | [여행 가자](https://www.acmicpc.net/problem/1976) |
 
@@ -3245,7 +3250,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [11656](https://www.acmicpc.net/problem/11656) | [접미사 배열](https://www.acmicpc.net/problem/11656) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [9205](https://www.acmicpc.net/problem/9205) | [맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [9205](https://www.acmicpc.net/problem/9205) | [맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [13910](https://www.acmicpc.net/problem/13910) | [개업](https://www.acmicpc.net/problem/13910) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [17136](https://www.acmicpc.net/problem/17136) | [색종이 붙이기](https://www.acmicpc.net/problem/17136) |
 
