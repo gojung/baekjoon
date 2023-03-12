@@ -1,3 +1,9 @@
+## 2023/03/13 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [2805](https://www.acmicpc.net/problem/2805) | [나무 자르기](https://www.acmicpc.net/problem/2805) |
+
 ## 2023/03/12 
 
 | 난이도 | 번호 | 문제 이름 |
