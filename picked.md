@@ -1,3 +1,8 @@
+## 2023/04/23 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2023/04/22 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -2589,7 +2594,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1283](https://www.acmicpc.net/problem/1283) | [단축키 지정](https://www.acmicpc.net/problem/1283) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1283](https://www.acmicpc.net/problem/1283) | [단축키 지정](https://www.acmicpc.net/problem/1283) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1992](https://www.acmicpc.net/problem/1992) | [쿼드트리](https://www.acmicpc.net/problem/1992) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1092](https://www.acmicpc.net/problem/1092) | [배](https://www.acmicpc.net/problem/1092) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1107](https://www.acmicpc.net/problem/1107) | [리모컨](https://www.acmicpc.net/problem/1107) |
@@ -2834,7 +2839,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [10815](https://www.acmicpc.net/problem/10815) | [숫자 카드](https://www.acmicpc.net/problem/10815) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [18405](https://www.acmicpc.net/problem/18405) | [경쟁적 전염](https://www.acmicpc.net/problem/18405) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [18430](https://www.acmicpc.net/problem/18430) | [무기 공학](https://www.acmicpc.net/problem/18430) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [18430](https://www.acmicpc.net/problem/18430) | [무기 공학](https://www.acmicpc.net/problem/18430) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1749](https://www.acmicpc.net/problem/1749) | [점수따먹기](https://www.acmicpc.net/problem/1749) |
 
 ## 2021/10/27 
@@ -3239,7 +3244,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [14467](https://www.acmicpc.net/problem/14467) | [소가 길을 건너간 이유 1](https://www.acmicpc.net/problem/14467) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [16938](https://www.acmicpc.net/problem/16938) | [캠프 준비](https://www.acmicpc.net/problem/16938) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [16954](https://www.acmicpc.net/problem/16954) | [움직이는 미로 탈출](https://www.acmicpc.net/problem/16954) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [16954](https://www.acmicpc.net/problem/16954) | [움직이는 미로 탈출](https://www.acmicpc.net/problem/16954) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1958](https://www.acmicpc.net/problem/1958) | [LCS 3](https://www.acmicpc.net/problem/1958) |
 
 ## 2021/09/12 
