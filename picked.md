@@ -1,3 +1,9 @@
+## 2023/06/05 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [11441](https://www.acmicpc.net/problem/11441) | [합 구하기](https://www.acmicpc.net/problem/11441) |
+
 ## 2023/06/04 
 
 | 난이도 | 번호 | 문제 이름 |
